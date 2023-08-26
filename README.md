@@ -1,8 +1,11 @@
 # AutomateSMR
-Reported by sectional
+This is an automated form that is design for the client's need.
+
+
+# Reported by sectional
 1. Individual reporting the issue of a security component
 
-Informational sectional
+# Informational sectional
 1. Individual completing the form
 2. In Date of Request - VBA code to not allow any symbols such as "/" and "-" into the field because the form use this information to 
 	put onto email subject line
@@ -16,28 +19,28 @@ Informational sectional
 10. Update field contains information completion that requires multiple days to fix the security component
 
 
-Testing Verifications sectional
+# Testing Verifications sectional
 1. Information regarding Contractor and Officer testing the security component
 
-Testing Documentation
+# Testing Documentation
 1. The Security Component and what verifications that need to be test and pass
 
-Pending Button
+# Pending Button
 1. Automate to save a pending file onto chosen path folder
 2. Resets the Master Copy SMR values
 3. Records information onto different Database file
 
-Submit Button
+# Submit Button
 1. Automate to save a file onto chose path folder
 2. Delete the pending file if exsists
 3. Creates an email that contains specific information on the form, Also autopopulate who to send the email to
 4. Records information onto a different Database file
 
-Update Button
+# Update Button
 1. Automate an email and send specific information to the corresponding contact
 2. Records information onto a different Database file
 
-Resolved Button
+# Resolved Button
 1. Automate an email and send specific information to the corresponding contact
 2. Attach the current excel document onto the email
 3. Records information onto a different Database file
